@@ -1,0 +1,14 @@
+
+===> Epoch[0]: G_GAN:4.2750, image_loss:4.6722, LossG:112255.5938, LossD:1.3573, d_real_loss:-0.007160, d_fake_loss:0.443930, penalty:0.9062
+===> Epoch[0]: G_GAN:-0.0728, image_loss:0.4784, LossG:1874.3461, LossD:-3.5186, d_real_loss:-0.695714, d_fake_loss:-4.634116, penalty:0.4198
+===> Epoch[0]: G_GAN:-0.0695, image_loss:0.2930, LossG:1075.7164, LossD:-2.2651, d_real_loss:0.206747, d_fake_loss:-2.430585, penalty:0.3722
+===> Epoch[0]: G_GAN:-0.1672, image_loss:0.2727, LossG:1194.2164, LossD:-2.1170, d_real_loss:0.986470, d_fake_loss:-1.493508, penalty:0.3630
+===> Epoch[0]: G_GAN:-0.1695, image_loss:0.2624, LossG:1081.3925, LossD:-2.2313, d_real_loss:1.575235, d_fake_loss:-0.709189, penalty:0.0531
+===> Epoch[0]: G_GAN:-0.1680, image_loss:0.2540, LossG:1008.2980, LossD:-2.1529, d_real_loss:0.811429, d_fake_loss:-1.386943, penalty:0.0455
+===> Epoch[1]: G_GAN:-0.1263, image_loss:0.3520, LossG:831.3834, LossD:-2.8331, d_real_loss:1.523508, d_fake_loss:-1.465486, penalty:0.1559
+===> Epoch[1]: G_GAN:-0.2790, image_loss:0.2340, LossG:1196.7471, LossD:-1.9280, d_real_loss:0.918896, d_fake_loss:-1.086202, penalty:0.0771
+===> Epoch[1]: G_GAN:-0.1673, image_loss:0.2210, LossG:765.8920, LossD:-1.9394, d_real_loss:0.996249, d_fake_loss:-0.962919, penalty:0.0198
+===> Epoch[1]: G_GAN:-0.1774, image_loss:0.1778, LossG:849.9792, LossD:-1.5131, d_real_loss:0.954457, d_fake_loss:-0.604992, penalty:0.0463
+===> Epoch[1]: G_GAN:-0.0636, image_loss:0.1415, LossG:468.2483, LossD:-1.3280, d_real_loss:0.679177, d_fake_loss:-0.691835, penalty:0.0430
+===> Epoch[1]: G_GAN:-0.3519, image_loss:0.0936, LossG:947.5491, LossD:-0.3945, d_real_loss:1.752050, d_fake_loss:1.353719, penalty:0.0039
+===> Epoch[2]: G_GAN:-0.3160, image_loss:0.0923, LossG:879.7214, LossD:-0.2871, d_real_loss:0.837285, d_fake_loss:0.543225, penalty:0.0070
